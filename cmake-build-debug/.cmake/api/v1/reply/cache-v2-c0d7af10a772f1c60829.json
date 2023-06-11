@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/17746/Desktop/Final_Programs_for_website/CS5008_CapstoneFinal/cmake-build-debug"
+			"value" : "c:/Users/17746/Desktop/Final_Programs_for_website/PUMA/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/17746/Desktop/Final_Programs_for_website/CS5008_CapstoneFinal/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/17746/Desktop/Final_Programs_for_website/PUMA/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/17746/Desktop/Final_Programs_for_website/CS5008_CapstoneFinal"
+			"value" : "C:/Users/17746/Desktop/Final_Programs_for_website/PUMA"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/17746/Desktop/Final_Programs_for_website/CS5008_CapstoneFinal/cmake-build-debug"
+			"value" : "C:/Users/17746/Desktop/Final_Programs_for_website/PUMA/cmake-build-debug"
 		},
 		{
 			"name" : "Project_IS_TOP_LEVEL",
@@ -1143,7 +1143,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/17746/Desktop/Final_Programs_for_website/CS5008_CapstoneFinal"
+			"value" : "C:/Users/17746/Desktop/Final_Programs_for_website/PUMA"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
