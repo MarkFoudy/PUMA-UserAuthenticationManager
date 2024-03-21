@@ -60,7 +60,21 @@ PUMA reflects my commitment to developing an application capable of efficiently 
 
 #  Installation
 
+Download the git repository.
+
 ```bash
   git clone https://github.com/MarkFoudy/PUMA-UserAuthenticationManager.git
 ```
 
+Compile the Program: 
+```bash
+gcc -o pumaMenu pumaMenu.c list.c
+```
+
+This command compiles the pumaMenu.c and list.c files, and produces an executable named pumaMenu.
+
+After compiling the program, you can run it with the following command:
+
+```bash
+./pumaMenu
+```
