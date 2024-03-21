@@ -78,3 +78,6 @@ After compiling the program, you can run it with the following command:
 ```bash
 ./pumaMenu
 ```
+![image](https://github.com/MarkFoudy/PUMA-UserAuthenticationManager/assets/29990433/4d46f7ee-421d-4059-8ff7-fead00ebff44)
+
+
