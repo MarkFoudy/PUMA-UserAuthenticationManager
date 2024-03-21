@@ -57,3 +57,10 @@ This function serves as the main driver of the program, enabling administrators 
 **Conclusion**
 
 PUMA reflects my commitment to developing an application capable of efficiently processing, parsing, and managing vast amounts of user information. It showcases effective use of search and sort algorithms, error checking, and user data management.
+
+#  Installation
+
+```bash
+  git clone https://github.com/MarkFoudy/PUMA-UserAuthenticationManager.git
+```
+
