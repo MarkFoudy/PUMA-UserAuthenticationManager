@@ -85,17 +85,22 @@ The purpose of this guide is to quickly familiarize end users with PUMA’s func
 ![image](https://github.com/MarkFoudy/PUMA-UserAuthenticationManager/assets/29990433/4d46f7ee-421d-4059-8ff7-fead00ebff44)
 
 
-First Step Importing User Credentials. Menu Option #1
+- First Step Importing User Credentials. Menu Option #1
 •	To demonstrate PUMA’s functionality, it is necessary to manually import data files.  For this purpose, four separate text files come along with system files to be used to test the functionality of the application.  These files are server_dump.txt, server_dump_error.txt, CS5008.txt and press.txt.
-Second Step Printing User Data. Menu option #2
+
+- Second Step Printing User Data. Menu option #2
 •	PUMA automatically encrypts each user’s password and only prints the encrypted password protecting the user from malicious actors.
 •	PUMA validates each user record being imported contains both valid IP and MAC addresses.
 •	Creating whitelists/blacklists for users.  This option allows these lists of users to be printed either to the console or separate text files to be stored.  
-Third Step Searching for individual users. Menu options #3-5
+
+
+- Third Step Searching for individual users. Menu options #3-5
 •	PUMA allows system administrators to search for users by username, IP address and MAC address. It utilizes a proprietary binary search algorithm in order to search efficiently and quickly.
-Third step Sorting User files: Menu options #6
+
+- Third step Sorting User files: Menu options #6
 •	PUMA utilizes a proprietary developed “bubble sort” algorithm to efficiently sort through large swaths of data.
-Fourth Step deleting imported user list. Menu option #7
+
+- Fourth Step deleting imported user list. Menu option #7
 •	This final step clears the memory and resets PUMA to import and interact with additional lists of users.
 
 
