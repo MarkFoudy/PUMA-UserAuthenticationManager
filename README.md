@@ -1,6 +1,6 @@
 ## PUMA - User Manual
 
-Welcome to PUMA, a user authentication application designed to manage login information and ensure security. This project is the culmination of the knowledge I've acquired while taking **CS 5008: Data Structures, Algorithms, and Applications
+Welcome to PUMA, a user authentication application designed to manage login information and ensure security. This project is the culmination of the knowledge I've acquired while taking: <br> **CS 5008: Data Structures, Algorithms, and Applications
 within Computer Systems** during the Summer 2022.
 
 **Purpose**
